@@ -1,1 +1,3 @@
-postgresql://neondb_owner:npg_xj73dhbagvzf@ep-raspy-lab-b5a87nkh-pooler.c-7.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+# Postgres — your database connection
+DATABASE_URL="postgresql://neondb_owner:npg_8TV5BKSRwfIm@ep-proud-union-b48tbk3j.c-6.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+DATABASE_URL_POOLED="postgresql://neondb_owner:npg_8TV5BKSRwfIm@ep-proud-union-b48tbk3j-pooler.c-6.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
